@@ -1,5 +1,3 @@
-<div align="center">
-
 ## Giới thiệu
 
 Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH chính thức, mang đến trải nghiệm quản lý học tập linh hoạt và tiện lợi hơn cho sinh viên HUTECH.
