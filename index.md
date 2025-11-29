@@ -1,15 +1,5 @@
 <div align="center">
 
-# e-HUTECH Shortcuts iOS
-
-**Phím tắt iOS hỗ trợ ứng dụng e-HUTECH** - Quản lý học tập linh hoạt hơn
-
-[![iOS](https://img.shields.io/badge/iOS-Shortcuts-007AFF?logo=apple)](https://apps.apple.com/app/id915249334)
-[![Get Shortcut](https://img.shields.io/badge/Get-Shortcut-red)](https://github.com/Tylerx404/e-hutech-scios/releases/latest)
-[![HUTECH](https://img.shields.io/badge/HUTECH-Student-blue)](https://hutech.edu.vn)
-
-</div>
-
 ## Giới thiệu
 
 Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH chính thức, mang đến trải nghiệm quản lý học tập linh hoạt và tiện lợi hơn cho sinh viên HUTECH.
@@ -89,7 +79,5 @@ Có! Phím tắt hoạt động trên cả iPhone và iPad chạy iOS/iPadOS 14 
 <div align="center">
 
 Made with ❤️ for HUTECH Students
-
-**Nếu thấy hữu ích, hãy cho dự án một ⭐**
 
 </div>
