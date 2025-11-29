@@ -24,30 +24,13 @@ Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH ch
 
 ## Tính năng
 
-<table>
-<tr>
-<td width="50%">
-
-### Tính năng cốt lõi
-- Điểm danh QR/Mã
-- Xem thời khóa biểu
-- Xem lớp học phần
-- Xem điểm
-- Xem lịch thi
-
-</td>
-<td width="50%">
-
-### Tính năng mở rộng
-- Đa tài khoản
-- Chọn cơ sở điểm danh
-- Điểm danh hàng loạt
-- Chia sẻ tài khoản *(đang phát triển)*
-- Cập nhật phím tắt
-
-</td>
-</tr>
-</table>
+| Tính năng cốt lõi | Tính năng mở rộng |
+|-------------------|-------------------|
+| Điểm danh QR/Mã | Đa tài khoản |
+| Xem thời khóa biểu | Chọn cơ sở điểm danh |
+| Xem lớp học phần | Điểm danh hàng loạt |
+| Xem điểm | Chia sẻ tài khoản *(đang phát triển)* |
+| Xem lịch thi | Cập nhật phím tắt |
 
 ## Yêu cầu hệ thống
 
