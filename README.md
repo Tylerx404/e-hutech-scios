@@ -10,6 +10,12 @@
 
 </div>
 
+## Hình ảnh minh họa
+
+| Hình ảnh | Demo |
+|----------|------|
+| <img src="./assets/preview.png" width="400"> | <img src="./assets/demo.gif" width="400"> |
+
 ## Giới thiệu
 
 Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH chính thức, mang đến trải nghiệm quản lý học tập linh hoạt và tiện lợi hơn cho sinh viên HUTECH.
@@ -29,7 +35,7 @@ Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH ch
 | Điểm danh QR/Mã | Đa tài khoản |
 | Xem thời khóa biểu | Chọn cơ sở điểm danh |
 | Xem lớp học phần | Điểm danh hàng loạt |
-| Xem điểm | Chia sẻ tài khoản *(đang phát triển)* |
+| Xem điểm | Chia sẻ tài khoản |
 | Xem lịch thi | Cập nhật phím tắt |
 
 ## Yêu cầu hệ thống
@@ -55,8 +61,8 @@ Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH ch
 | Đa tài khoản | ✗ | ✓ |
 | Chọn cơ sở điểm danh | ✗ | ✓ |
 | Điểm danh hàng loạt | ✗ | ✓ |
-| Chia sẻ tài khoản | ✗ | Sắp có |
-| Tự động cập nhật | ✓ | Sắp có |
+| Chia sẻ tài khoản | ✗ | ✓ |
+| Danh sách cập nhật | ✗ | ✓ |
 
 ## FAQ
 
