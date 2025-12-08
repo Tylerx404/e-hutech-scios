@@ -48,7 +48,7 @@ Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH ch
 
 **Tải xuống:** [GitHub Releases](https://github.com/Tylerx404/e-hutech-scios/releases/latest)
 
-1. Tải file `.shortcut` từ phiên bản mới nhất hoặc [iCloud Link](https://www.icloud.com/shortcuts/9be8985a95834458b527d8bdac1f9bd9)
+1. Tải file `.shortcut` từ phiên bản mới nhất hoặc [iCloud Link](https://www.icloud.com/shortcuts/bbb942b380ea48648ba0f32101a1374a)
 2. Mở file → Nhấn "Add Shortcut"
 3. Cho phép các quyền cần thiết
 
