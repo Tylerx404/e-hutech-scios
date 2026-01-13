@@ -5,7 +5,8 @@
 **Phím tắt iOS hỗ trợ ứng dụng e-HUTECH** - Quản lý học tập linh hoạt hơn
 
 [![iOS](https://img.shields.io/badge/iOS-Shortcuts-007AFF?logo=apple)](https://apps.apple.com/app/id915249334)
-[![Get Shortcut](https://img.shields.io/badge/Get-Shortcut-red)](https://github.com/Tylerx404/e-hutech-scios/releases/latest)
+[![GitHub](https://img.shields.io/badge/GitHub-Download-red?logo=github)](https://github.com/Tylerx404/e-hutech-scios/releases/latest)
+[![iCloud](https://img.shields.io/badge/iCloud-Add-blue?logo=apple)](https://www.icloud.com/shortcuts/73254d5c44d54e6c9e3a3351783a71da)
 [![HUTECH](https://img.shields.io/badge/HUTECH-Student-blue)](https://hutech.edu.vn)
 
 </div>
@@ -44,13 +45,20 @@ Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH ch
 - Ứng dụng [Shortcuts](https://apps.apple.com/app/id915249334)
 - Kết nối Internet
 
-## Cài đặt
+## Tải từ các nguồn chính thức
 
-**Tải xuống:** [GitHub Releases](https://github.com/Tylerx404/e-hutech-scios/releases/latest)
+Phím tắt có thể được tải từ:
 
-1. Tải file `.shortcut` từ phiên bản mới nhất hoặc [iCloud Link](https://www.icloud.com/shortcuts/bbb942b380ea48648ba0f32101a1374a)
-2. Mở file → Nhấn "Add Shortcut"
-3. Cho phép các quyền cần thiết
+| Nguồn | Loại | Liên kết |
+|-------|------|----------|
+| GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest) |
+| iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/73254d5c44d54e6c9e3a3351783a71da) |
+
+### Hướng dẫn cài đặt
+
+1. Tải file `.shortcut` từ nguồn trên
+2. Mở **[Files](https://apps.apple.com/app/id1232058109)** → Chọn folder **"Downloads"** → Nhấn **"HUSECH.shortcut"**
+3. Chạy phím tắt và cho phép các quyền cần thiết
 
 ## So sánh với app chính thức
 
@@ -59,7 +67,7 @@ Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH ch
 | Điểm danh QR/Mã | ✓ | ✓ |
 | Xem TKB, điểm, lịch thi | ✓ | ✓ |
 | Đa tài khoản | ✗ | ✓ |
-| Chọn cơ sở điểm danh | ✗ | ✓ |
+| Thiết lập vị trí điểm danh | ✗ | ✓ |
 | Điểm danh hàng loạt | ✗ | ✓ |
 | Chia sẻ tài khoản | ✗ | ✓ |
 | Danh sách cập nhật | ✗ | ✓ |
