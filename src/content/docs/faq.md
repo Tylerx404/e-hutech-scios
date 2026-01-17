@@ -101,7 +101,7 @@ Phím tắt có tính năng tự động kiểm tra phiên bản mới. Để c�
 
 ### Dung lượng phím tắt bao nhiêu?
 
-**Rất nhẹ, chỉ khoảng 1MB!**
+**Rất nhẹ, chỉ khoảng 0.05MB!**
 
 So với app chính thức (~90MB), phím tắt tiết kiệm tới 98% dung lượng lưu trữ.
 

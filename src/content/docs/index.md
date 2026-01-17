@@ -2,6 +2,7 @@
 title: Trang chủ
 description: Phím tắt iOS hỗ trợ ứng dụng e-HUTECH - Quản lý học tập linh hoạt hơn
 template: splash
+next: false
 hero:
   title: HUSECH
   tagline: Phím tắt iOS hỗ trợ ứng dụng e-HUTECH - Quản lý học tập linh hoạt hơn

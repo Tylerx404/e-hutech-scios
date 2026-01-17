@@ -15,7 +15,7 @@
 
 | Hình ảnh | Demo |
 |----------|------|
-| <img src="./assets/preview.png" width="500"> | <img src="./assets/demo.gif" width="400"> |
+| <img src="./assets/preview.png" width="400"> | <img src="./assets/demo.gif" width="400"> |
 
 ## Giới thiệu
 

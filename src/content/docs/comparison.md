@@ -16,32 +16,7 @@ description: Bảng so sánh chi tiết giữa phím tắt e-HUTECH Shortcuts v�
 | **Danh sách cập nhật** | ✗ | ✓ | **Shortcuts vượt trội** |
 | **Tốc độ khởi động** | Trung bình | Nhanh | **Shortcuts vượt trội** |
 | **Tiêu thụ pin** | Cao | Thấp | **Shortcuts vượt trội** |
-| **Dung lượng** | ~90MB | ~1MB | **Shortcuts vượt trội** |
-
-## Khuyến nghị sử dụng
-
-### Cách tốt nhất
-**Sử dụng kết hợp cả hai:**
-
-1. **App chính thức**: Cho các hoạt động học tập chính quy
-2. **Shortcuts**: Cho điểm danh nhanh và các tác vụ lặp lại
-
-### Lợi ích khi kết hợp
-- Đảm bảo không bỏ lỡ thông báo quan trọng từ nhà trường
-- Vẫn có thể điểm danh nhanh khi cần thiết
-- Tận dụng ưu điểm của cả hai công cụ
-
-## Cập nhật và hỗ trợ
-
-### Shortcuts
-- **Tần suất cập nhật**: Thường xuyên (theo nhu cầu)
-- **Hỗ trợ**: Cộng đồng và issues trên GitHub
-- **Chi phí**: Miễn phí hoàn toàn
-
-### App chính thức
-- **Tần suất cập nhật**: Theo kế hoạch của nhà trường
-- **Hỗ trợ**: Phòng CNTT trường hoặc nhà phát triển
-- **Chi phí**: Miễn phí
+| **Dung lượng** | ~90MB | ~0.05MB | **Shortcuts vượt trội** |
 
 ## Lưu ý quan trọng
 
