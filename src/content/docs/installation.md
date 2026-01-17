@@ -18,7 +18,7 @@ Phím tắt có thể được tải từ các nguồn sau:
 | Nguồn | Loại | Liên kết |
 |-------|------|----------|
 | GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest) |
-| iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/73254d5c44d54e6c9e3a3351783a71da) |
+| iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/7f9a8ae5111e448aa99e3c26852e7eda) |
 
 ## Hướng dẫn cài đặt chi tiết
 
