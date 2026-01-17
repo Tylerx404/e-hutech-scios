@@ -7,13 +7,13 @@ description: Bảng so sánh chi tiết giữa phím tắt e-HUTECH Shortcuts v�
 
 | Tính năng | e-HUTECH App Chính thức | e-HUTECH Shortcuts | Ưu thế |
 |-----------|:-----------------------:|:------------------:|---------|
-| **Điểm danh QR/Mã** | ✅ | ✅ | Giống nhau |
-| **Xem TKB, điểm, lịch thi** | ✅ | ✅ | Giống nhau |
-| **Đa tài khoản** | ❌ | ✅ | **Shortcuts vượt trội** |
-| **Thiết lập vị trí điểm danh** | ❌ | ✅ | **Shortcuts vượt trội** |
-| **Điểm danh hàng loạt** | ❌ | ✅ | **Shortcuts vượt trội** |
-| **Chia sẻ tài khoản** | ❌ | ✅ | **Shortcuts vượt trội** |
-| **Danh sách cập nhật** | ❌ | ✅ | **Shortcuts vượt trội** |
+| **Điểm danh QR/Mã** | ✓ | ✓ | Giống nhau |
+| **Xem TKB, điểm, lịch thi** | ✓ | ✓ | Giống nhau |
+| **Đa tài khoản** | ✗ | ✓ | **Shortcuts vượt trội** |
+| **Thiết lập vị trí điểm danh** | ✗ | ✓ | **Shortcuts vượt trội** |
+| **Điểm danh hàng loạt** | ✗ | ✓ | **Shortcuts vượt trội** |
+| **Chia sẻ tài khoản** | ✗ | ✓ | **Shortcuts vượt trội** |
+| **Danh sách cập nhật** | ✗ | ✓ | **Shortcuts vượt trội** |
 | **Tốc độ khởi động** | Trung bình | Nhanh | **Shortcuts vượt trội** |
 | **Tiêu thụ pin** | Cao | Thấp | **Shortcuts vượt trội** |
 | **Dung lượng** | ~90MB | ~1MB | **Shortcuts vượt trội** |

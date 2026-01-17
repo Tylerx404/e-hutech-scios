@@ -6,7 +6,7 @@ hero:
   title: HUSECH
   tagline: Phím tắt iOS hỗ trợ ứng dụng e-HUTECH - Quản lý học tập linh hoạt hơn
   image:
-    file: /assets/preview.png
+    file: ../../../assets/preview.png
   actions:
     - text: Tải xuống
       link: /e-hutech-scios/installation
