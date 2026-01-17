@@ -17,4 +17,4 @@ description: Khám phá tất cả tính năng của phím tắt e-HUTECH Shortc
 
 | Hình ảnh | Demo |
 |----------|------|
-| <img src="../../../assets/preview.png" width="400"> | <img src="../../../assets/demo.gif" width="400"> |
+| <img src="/e-hutech-scios/assets/preview.png" width="400"> | <img src="/e-hutech-scios/assets/demo.gif" width="400"> |
