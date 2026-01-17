@@ -1,0 +1,25 @@
+{
+  "name": "e-hutech-scios",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/starlight": "^0.37.3",
+    "astro": "^5.16.11",
+    "sharp": "^0.34.5"
+  },
+  "devDependencies": {
+    "@types/estree": "^1.0.8",
+    "@types/hast": "^3.0.4",
+    "@types/mdast": "^4.0.4",
+    "@types/nlcst": "^2.0.3",
+    "@types/unist": "^3.0.3",
+    "typescript": "^5.9.3"
+  }
+}
