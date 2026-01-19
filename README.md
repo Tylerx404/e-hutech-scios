@@ -15,7 +15,7 @@
 
 | Hình ảnh | Demo |
 |----------|------|
-| <img src="./assets/preview.png" width="400"> | <img src="./assets/demo.gif" width="400"> |
+| <img src="./public/assets/preview.png" width="400"> | <img src="./public/assets/demo.gif" width="400"> |
 
 ## Giới thiệu
 
@@ -51,8 +51,8 @@ Phím tắt có thể được tải từ:
 
 | Nguồn | Loại | Liên kết |
 |-------|------|----------|
-| GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest) |
 | iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/47d9c68f4c2d47f2bf803423475b5c68) |
+| GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest) |
 
 ### Hướng dẫn cài đặt
 

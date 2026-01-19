@@ -15,7 +15,7 @@ export default defineConfig({
 			title: 'HUSECH',
 			description: 'Phím tắt iOS hỗ trợ ứng dụng e-HUTECH - Quản lý học tập linh hoạt hơn',
 			logo: {
-				src: './assets/logo.png',
+				src: './public/assets/logo.png',
 			},
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/Tylerx404/e-hutech-scios' }],
 			sidebar: [

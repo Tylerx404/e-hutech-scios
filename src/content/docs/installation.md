@@ -17,14 +17,9 @@ Phím tắt có thể được tải từ các nguồn sau:
 
 | Nguồn | Loại | Liên kết |
 |-------|------|----------|
-| GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest) |
 | iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/47d9c68f4c2d47f2bf803423475b5c68) |
+| GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest) |
 
 ## Cập nhật phím tắt
 
-Phím tắt sẽ tự động kiểm tra phiên bản mới khi chạy. Để cập nhật thủ công:
-
-1. Truy cập [GitHub Releases](https://github.com/Tylerx404/e-hutech-scios/releases)
-2. Tải phiên bản mới nhất
-3. Lặp lại quy trình cài đặt ở trên
-4. Phiên bản cũ sẽ được thay thế tự động
+Phím tắt kiểm tra phiên bản mới khi chạy phim tắt với chức năng xem **"Thông tin HUSECH"**
