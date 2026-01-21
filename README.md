@@ -6,7 +6,7 @@
 
 [![iOS](https://img.shields.io/badge/iOS-Shortcuts-007AFF?logo=apple)](https://apps.apple.com/app/id915249334)
 [![GitHub](https://img.shields.io/badge/GitHub-Download-red?logo=github)](https://github.com/Tylerx404/e-hutech-scios/releases/latest)
-[![iCloud](https://img.shields.io/badge/iCloud-Add-blue?logo=apple)](https://www.icloud.com/shortcuts/8ca0fbe43fe34431a845a3f14a73a409)
+[![iCloud](https://img.shields.io/badge/iCloud-Add-blue?logo=apple)](https://www.icloud.com/shortcuts/fd153019dd6e421481ee037f02edaa50)
 [![HUTECH](https://img.shields.io/badge/HUTECH-Student-blue)](https://hutech.edu.vn)
 
 </div>
@@ -51,7 +51,7 @@ Phím tắt có thể được tải từ:
 
 | Nguồn | Loại | Liên kết |
 |-------|------|----------|
-| iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/8ca0fbe43fe34431a845a3f14a73a409) |
+| iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/fd153019dd6e421481ee037f02edaa50) |
 | GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest/download/HUSECH.shortcut) |
 
 ### Hướng dẫn cài đặt
