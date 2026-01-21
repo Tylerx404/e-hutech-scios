@@ -52,7 +52,7 @@ Phím tắt có thể được tải từ:
 | Nguồn | Loại | Liên kết |
 |-------|------|----------|
 | iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/8ca0fbe43fe34431a845a3f14a73a409) |
-| GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest) |
+| GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest/download/HUSECH.shortcut) |
 
 ### Hướng dẫn cài đặt
 
