@@ -3,14 +3,6 @@ title: Hướng dẫn cài đặt
 description: Hướng dẫn chi tiết cách tải và cài đặt phím tắt e-HUTECH Shortcuts iOS
 ---
 
-## Yêu cầu hệ thống
-
-Trước khi cài đặt, đảm bảo thiết bị của bạn đáp ứng các yêu cầu sau:
-
-- **iOS/iPadOS**: 14.0 trở lên
-- **Ứng dụng Shortcuts**: Cần cài đặt từ App Store
-- **Kết nối Internet**: Để đồng bộ dữ liệu với hệ thống e-HUTECH
-
 ## Tải từ nguồn chính thức
 
 Phím tắt có thể được tải từ các nguồn sau:
