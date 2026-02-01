@@ -41,7 +41,7 @@ Phím tắt iOS được phát triển để hỗ trợ ứng dụng e-HUTECH ch
 
 ## Yêu cầu hệ thống
 
-- iOS/iPadOS 14.0+
+- iOS/iPadOS 15.0+
 - Ứng dụng [Shortcuts](https://apps.apple.com/app/id915249334)
 - Kết nối Internet
 

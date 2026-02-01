@@ -1,6 +1,7 @@
 // @ts-check
 import { defineConfig } from 'astro/config';
 import starlight from '@astrojs/starlight';
+import uiTweaks from 'starlight-ui-tweaks';
 
 // https://astro.build/config
 export default defineConfig({
@@ -17,7 +18,46 @@ export default defineConfig({
 			logo: {
 				src: './public/assets/logo.png',
 			},
+			customCss: ['./src/styles.css'],
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/Tylerx404/e-hutech-scios' }],
+			plugins: [
+				uiTweaks({
+					navbarLinks: [
+						{ label: 'GitHub', href: 'https://github.com/Tylerx404/e-hutech-scios' },
+						{ label: 'Tải xuống', href: '/installation' },
+					],
+					footer: {
+						copyright: 'HUSECH. All rights reserved.',
+						firstColumn: {
+							title: 'Sản phẩm',
+							links: [
+								{ label: 'Tính năng', href: '/features' },
+								{ label: 'FAQ', href: '/faq' },
+							],
+						},
+						secondColumn: {
+							title: 'Hỗ trợ',
+							links: [
+								{ label: 'Hướng dẫn', href: '/installation' },
+								{ label: 'GitHub', href: 'https://github.com/Tylerx404/e-hutech-scios' },
+							],
+						},
+						thirdColumn: {
+							title: 'Pháp lý',
+							links: [
+								{ label: 'Giấy phép', href: 'https://github.com/Tylerx404/e-hutech-scios/blob/main/LICENSE' },
+							],
+						},
+						fourthColumn: {
+							title: 'Liên hệ',
+							links: [
+								{ label: 'GitHub Issues', href: 'https://github.com/Tylerx404/e-hutech-scios/issues' },
+							],
+						},
+						showSocialIcons: true,
+					},
+				}),
+			],
 			sidebar: [
 				{
 					label: 'Giới thiệu',

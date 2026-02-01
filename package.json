@@ -10,9 +10,10 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/starlight": "^0.37.3",
-    "astro": "^5.16.11",
-    "sharp": "^0.34.5"
+    "@astrojs/starlight": "^0.37.5",
+    "astro": "^5.17.1",
+    "sharp": "^0.34.5",
+    "starlight-ui-tweaks": "^0.2.1"
   },
   "devDependencies": {
     "@types/estree": "^1.0.8",
