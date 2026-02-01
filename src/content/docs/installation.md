@@ -9,7 +9,7 @@ Phím tắt có thể được tải từ các nguồn sau:
 
 | Nguồn | Loại | Liên kết |
 |-------|------|----------|
-| iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/111a85895b094540be19e2bf06956455) |
+| iCloud Link | Chính thức | [iCloud Shortcuts](https://www.icloud.com/shortcuts/6b30a5753ffc48d1a910d39340308331) |
 | GitHub Releases | Chính thức | [Download .shortcut](https://github.com/Tylerx404/e-hutech-scios/releases/latest/download/HUSECH.shortcut) |
 
 ## Cập nhật phím tắt
